@@ -13,12 +13,7 @@ export const initSocketServer = async (server) => {
         "http://localhost:3000",
         "http://localhost:3001",
         "http://localhost:3002",
-        "https://task-tracker.code4bharat.com",
-        "https://task-tracker-admin.code4bharat.com",
-        "https://task-tracker-superadmin.code4bharat.com",
-        "https://www.task-tracker.code4bharat.com",
-        "https://www.task-tracker-admin.code4bharat.com",
-        "https://www.task-tracker-superadmin.code4bharat.com",
+        "https://yogu-code.github.io/chess-frontend/"
       ],
       credentials: true,
     },
