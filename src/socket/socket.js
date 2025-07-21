@@ -13,7 +13,7 @@ export const initSocketServer = async (server) => {
         "http://localhost:3000",
         "http://localhost:3001",
         "http://localhost:3002",
-        "https://yogu-code.github.io/chess-frontend/"
+        "https://yogu-code.github.io"
       ],
       credentials: true,
     },
